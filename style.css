@@ -4,3 +4,43 @@
     font-weight: 500;
     background-color: black;
 }*/
+
+button {
+    font-family: sans-serif;
+    color: white !important;
+    background-color: #025157 !important;
+    border-radius: 12px;
+    border-color: #025157 !important;
+}
+
+.matchabutton {
+    background-color: #025157 !important;
+    border-radius: 12px;
+    border-color: #025157 !important;
+}
+
+.matcha {
+    color: #025157 !important;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: xxx-large !important;
+}
+
+.img3block {
+    width: 100%;
+}
+
+.titlesm {
+    font-size: 2rem !important;
+}
+
+.sombra {
+    box-shadow: 0.75rem 0.75rem 0.75rem rgba(0, 0, 0, 0.2);
+}
+
+.column {}
